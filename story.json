@@ -1,0 +1,9 @@
+{
+  "slug": "test-story",
+  "title": "The Lighthouse Keeper's Last Shift",
+  "author": "Pagewick",
+  "description": "A short, free story used to verify that Pagewick's story catalogue is genuinely dynamic — added without touching any application code.",
+  "genre": ["Mystery", "Drama"],
+  "access": "free",
+  "featured": false
+}

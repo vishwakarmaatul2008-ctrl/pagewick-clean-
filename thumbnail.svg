@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c2430"/>
+      <stop offset="60%" stop-color="#12161f"/>
+      <stop offset="100%" stop-color="#0a0c11"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161c26"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#sky2)"/>
+  <rect y="420" width="400" height="180" fill="url(#sea)"/>
+
+  <!-- lighthouse -->
+  <polygon points="185,180 215,180 225,420 175,420" fill="#e7e0cf"/>
+  <polygon points="188,200 212,200 218,230 182,230" fill="#8c2f39"/>
+  <polygon points="192,260 208,260 213,290 187,290" fill="#8c2f39"/>
+  <rect x="178" y="150" width="44" height="35" fill="#241f2c"/>
+  <polygon points="178,150 200,120 222,150" fill="#0d0b10"/>
+
+  <!-- light beam -->
+  <polygon points="200,150 340,80 340,110 200,165" fill="#d9a54b" opacity="0.35"/>
+  <circle cx="200" cy="155" r="8" fill="#d9a54b"/>
+
+  <text x="200" y="560" font-family="Georgia, serif" font-size="22" fill="#ede6d6" text-anchor="middle" letter-spacing="1">The Lighthouse Keeper's</text>
+  <text x="200" y="586" font-family="Georgia, serif" font-size="22" fill="#ede6d6" text-anchor="middle" letter-spacing="1">Last Shift</text>
+</svg>

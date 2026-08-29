@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[functions]
+  directory = "netlify/functions"
+
+# Redirect rules live in public/_redirects (copied to dist/_redirects on
+# build) — Netlify gives that file priority over [[redirects]] here when
+# both exist, so keeping rules in both places is what caused the /api/*
+# route to be silently swallowed by the SPA catch-all. Single source of
+# truth now.

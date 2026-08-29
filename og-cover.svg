@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0C1C"/>
+      <stop offset="100%" stop-color="#1B1E2D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M540 160h120v240l-60-40-60 40V160z" fill="#D9A54B"/>
+  <text x="600" y="480" font-family="Georgia, serif" font-size="88" fill="#EDE6D6" text-anchor="middle" letter-spacing="4">PAGEWICK</text>
+  <text x="600" y="530" font-family="Georgia, serif" font-size="26" fill="#9A93A6" text-anchor="middle" letter-spacing="2">Stories worth staying up for</text>
+</svg>
