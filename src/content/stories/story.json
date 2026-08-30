@@ -1,0 +1,12 @@
+{
+  "slug": "haunted-mansion",
+  "title": "Haunted Mansion",
+  "author": "A.V. Shadow",
+  "description": "Seven friends. One dare. Only one survives.",
+  "genre": ["Horror", "Mystery"],
+  "access": "premium",
+  "featured": false,
+  "freeChapters": 1,
+  "priceInPaise": 4900,
+  "rating": 4.8
+}
