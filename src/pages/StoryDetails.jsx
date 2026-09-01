@@ -169,7 +169,7 @@ export default function StoryDetails() {
 
           {showUnlockButton && (
             <p className="details-premium-note">
-              Test mode — use Razorpay's test card to unlock. No real payment is charged.
+              Secure payment powered by Razorpay.
             </p>
           )}
 
