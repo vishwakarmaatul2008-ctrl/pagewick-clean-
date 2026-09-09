@@ -1,0 +1,10 @@
+{
+  "slug": "weeping-angel",
+  "title": "Weeping Angel",
+  "description": "She cries for the ones who look away.",
+  "genre": ["Horror", "Psychological Mystery", "Supernatural"],
+  "access": "premium",
+  "featured": false,
+  "freeChapters": 1,
+  "priceInPaise": 9900
+}
