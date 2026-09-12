@@ -1,0 +1,11 @@
+{
+  "slug": "the-zero-sum-ledger",
+  "title": "The Zero-Sum Ledger",
+  "description": "Some transactions should never be seen.",
+  "genre": ["Financial Thriller", "Crime"],
+  "access": "premium",
+  "featured": false,
+  "freeChapters": 1,
+  "priceInPaise": 4900
+}
+
