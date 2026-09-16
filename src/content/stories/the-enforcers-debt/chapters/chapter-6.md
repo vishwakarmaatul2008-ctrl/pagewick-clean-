@@ -81,3 +81,6 @@ Aria looked up into his slate-gray eyes, feeling the unyielding tension of a new
 "Then what happens tomorrow?" Aria asked softly.
 
 Julian's jaw set into a hard, chiseled line. "Tomorrow, we stop playing defense."
+---
+
+*The Enforcer's Debt continues in Part 2.*
