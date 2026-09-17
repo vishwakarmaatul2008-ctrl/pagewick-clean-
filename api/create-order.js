@@ -17,7 +17,7 @@ export default async function handler(req, res) {
   const { amount, currency = 'INR' } = body;
   // Razorpay's receipt field has a hard 40-character limit — truncate here so
   // no story's slug (however long) can ever push this over and cause a 400.
-  const receipt = typeof body.receipt === 'string' ? body.receipt.slice(0, 40) : body.receipt;
+  const receipt = typeof body.receipt === 'string' ? body.receipt.slice(-40) : body.receipt;
 
   if (!Number.isInteger(amount) || amount < 100) {
     console.error('[create-order] invalid amount:', amount);
